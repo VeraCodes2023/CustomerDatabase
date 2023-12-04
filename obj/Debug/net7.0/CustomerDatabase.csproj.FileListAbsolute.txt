@@ -1,0 +1,15 @@
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_3-customer-database/obj/Debug/net7.0/CustomerDatabase.csproj.AssemblyReference.cache
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_3-customer-database/obj/Debug/net7.0/CustomerDatabase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_3-customer-database/obj/Debug/net7.0/CustomerDatabase.AssemblyInfoInputs.cache
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_3-customer-database/obj/Debug/net7.0/CustomerDatabase.AssemblyInfo.cs
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_3-customer-database/obj/Debug/net7.0/CustomerDatabase.csproj.CoreCompileInputs.cache
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_3-customer-database/bin/Debug/net7.0/CustomerDatabase
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_3-customer-database/bin/Debug/net7.0/CustomerDatabase.deps.json
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_3-customer-database/bin/Debug/net7.0/CustomerDatabase.runtimeconfig.json
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_3-customer-database/bin/Debug/net7.0/CustomerDatabase.dll
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_3-customer-database/bin/Debug/net7.0/CustomerDatabase.pdb
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_3-customer-database/obj/Debug/net7.0/CustomerDatabase.dll
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_3-customer-database/obj/Debug/net7.0/refint/CustomerDatabase.dll
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_3-customer-database/obj/Debug/net7.0/CustomerDatabase.pdb
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_3-customer-database/obj/Debug/net7.0/CustomerDatabase.genruntimeconfig.cache
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_3-customer-database/obj/Debug/net7.0/ref/CustomerDatabase.dll
